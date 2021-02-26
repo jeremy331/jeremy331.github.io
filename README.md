@@ -3,7 +3,7 @@
 ## 自我介紹
 I am black hunter
 ## 興趣
-玩遊戲
+play games
 ## 好玩的圖
 [神秘網址](https://jeremy331.github.io)
 
