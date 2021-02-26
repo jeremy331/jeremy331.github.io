@@ -4,6 +4,13 @@
 I am black hunter
 ## 興趣
 play games
+```C
+include <stdio.h>
+int main()
+{
+  printf("Hello World");
+}
+```
 ## 好玩的圖
 [走囉~](https://www.youtube.com/?gl=TW&hl=zh-TW)
 
